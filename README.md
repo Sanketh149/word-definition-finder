@@ -9,4 +9,4 @@ Development steps:
 [The Privacy Policy](./PrivacyPolicy.md)
 
 # License
-[GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+[GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)"# word-definition-finder" 
